@@ -1,0 +1,3 @@
+[submodule "vim/vim_awesome"]
+	path = vim/vim_awesome
+	url = git@github.com:KeV1NBR/vimrc.git
